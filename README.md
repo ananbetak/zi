@@ -34,7 +34,7 @@ Information & Features :
 
 4. on loading more data, the app will automatically scroll to those next "10" products.
 
-5. when reaching the end of the list, a message of "End List" will appear on the app , on the button.
+5. when reaching the end of the list, a message of "End List" will appear on the app , on the bottom.
 
 6. on the homepage, a counter is being showed.
 

@@ -47,12 +47,7 @@ he will receive instantly the whole list.
 
 10. on each Loadmore, a maximum of additional 10 items will be added if they are available.
 
-11. Regarding realtime , what is actually done currently, the frontend ( app ) , is automatically getting the first 10 products , and on loadmore, will automatically grab the next load of addiotional products.
-
-12. the only realtime thing that could be added to this app , is exactly how it is being done .
-
-13 If you really meant, that realtime means, if data changes on the backend ( MockData ) , then
-i had to use sockets for that, and i don't think this is what required on the task.
+11. when entering the app , it automatically get the first 10 products , and on loadmore, will automatically grab the next load of addiotional products.
 
 I Hope you enjoy the project.
 
